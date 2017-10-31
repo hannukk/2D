@@ -1,7 +1,7 @@
 /**
  * An immutable list
  * Designed for illustrating reasoning about immutable types
- * 
+ * ofiowefoiwfnownfnervnwvnowssss
  * Copyright 2007 Daniel Jackson and MIT
  */
 package immutable;
@@ -69,4 +69,5 @@ public class EmptyImList<E> implements ImList<E> {
     public String toString() {
         return "[]";
     }
+    //ends
 }
